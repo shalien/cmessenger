@@ -1,0 +1,4 @@
+"/Users/shalien/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.4/CLion 2023.1 EAP.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/shalien/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.4/CLion 2023.1 EAP.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/shalien/CLionProjects/cmessenger -B /Users/shalien/CLionProjects/cmessenger/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shalien/CLionProjects/cmessenger/cmake-build-debug

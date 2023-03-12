@@ -1,0 +1,3 @@
+/Users/shalien/CLionProjects/cmessenger/cmake-build-debug/CMakeFiles/cmessenger.dir
+/Users/shalien/CLionProjects/cmessenger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shalien/CLionProjects/cmessenger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
